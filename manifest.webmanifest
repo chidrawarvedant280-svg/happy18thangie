@@ -1,0 +1,21 @@
+{
+  "name": "Happy Birthday, Angeline",
+  "short_name": "Angeline 2026",
+  "description": "A sky-blue birthday celebration crafted by Vedu for Angeline (Angie Pangie).",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F8FBFF",
+  "theme_color": "#F0F7FF",
+  "icons": [
+    {
+      "src": "./assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "./assets/og-preview.png",
+      "sizes": "1200x675",
+      "type": "image/png"
+    }
+  ]
+}
